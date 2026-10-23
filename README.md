@@ -54,26 +54,24 @@ An interactive Streamlit application focused on sustainability-oriented data and
 
 **Stack:** Python · Streamlit · Pandas · Plotly · SQLite
 
-### BALLASTIC
+### [Love Compass](https://github.com/dashritam08-raj/love-compass)
+**Flutter Application Project**  
+A Flutter-based mobile application project built with Dart. Visit the repository for the current source code and project updates.
+
+**Stack:** Flutter · Dart
+
+### [BALLASTIC](https://github.com/dashritam08-raj/BALLASTIC)
 **Football Match Intelligence & Analytics**  
 A football analytics interface for match analysis, player and ball tracking, pitch visualisation, statistics, and reporting workflows.
 
 **Stack:** HTML · CSS · JavaScript · Flask
-
-## 💼 Experience
-
-- **Intern — InternPe** | Aug 2025 – Sep 2025  
-  Contributed to software development tasks, testing and debugging, documentation, and team deliverables.
-
-- **Intern — CodSoft** | Aug 2025 – Sep 2025  
-  Supported requirement clarification, application testing, debugging, documentation, and development coordination.
 
 ## 🏅 Highlights & Learning
 
 - Smart India Hackathon participation (2025 & 2026)
 - Semester Topper Award and scholarship recipient
 - Learning through Google workshops and coursework in cybersecurity, AI/ML, Java, and ethical hacking
-- Certifications/completion credentials listed in my resume include CodSoft and InternPe; additional learning badges are reflected on my LinkedIn profile.
+- Certifications and learning badges are reflected in my resume and LinkedIn profile.
 
 ## 📊 GitHub Activity
 
