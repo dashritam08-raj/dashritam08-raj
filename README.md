@@ -1,6 +1,15 @@
 <!-- Profile README for dashritam08-raj -->
 
 <div align="center">
+  <img
+    src="./hritam_animated_github_banner.gif"
+    alt="Hritam Das — Software Engineering, Full-Stack Development and AI/ML"
+    width="100%"
+  />
+</div>
+
+
+<div align="center">
 
 Hi, I'm Hritam Das 👋
 Computer Science Engineering Student | Aspiring Software Engineer
