@@ -25,8 +25,7 @@
   </a>
 </div>
 
-whoami
-I'm a Computer Science and Engineering undergraduate at Meghnad Saha Institute of Technology (MSIT), expected to graduate in 2028. I enjoy turning ideas into practical software and strengthening my engineering fundamentals by building, debugging, and iterating on projects.
+I'm a Computer Science and Engineering undergraduate at Meghnad Saha Institute of Technology (MSIT). I enjoy turning ideas into practical software and strengthening my engineering fundamentals by building, debugging, and iterating on projects.
 - 🎯 Primary direction: Software Development Engineering (SDE)
 - 🧱 Areas I work with: Full-stack development, backend APIs, data analytics, and AI-assisted applications
 - 🧠 Currently strengthening: Data structures and algorithms, backend engineering, and core computer science
